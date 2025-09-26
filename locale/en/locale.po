@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-08T17:42:29+00:00\n"
+"PO-Revision-Date: 2020-02-08T17:42:29+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.getftr.displayName"
+msgstr "GetFTR Integration Plugin"
+
+msgid "plugins.generic.getftr.description"
+msgstr "Integrates with GetFTR by displaying GetFTR buttons for articles. "
+"GetFTR indicators and smart links will be added when the user's institution entitles them to full text or content is Open Access. "
+"<br>"
+"A valid GetFTR Integrator ID is required. "
+"For setup instructions, please refer to the plugin’s <a href="https://github.com/getft/getft-ojs-plugin?tab=readme-ov-file">README</a> or the GetFTR <a href="https://docs.getfulltextresearch.com">documentation</a>."
+
+msgid "plugins.generic.getftr.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.getftr.settings.info"
+msgstr "Configure your GetFTR integration settings below. You must provide a valid Integrator ID obtained from GetFTR to enable the service."
+"<br>"
+"Please check out our <a href="https://docs.getfulltextresearch.com">documentation</a> and/or the plugin's <a href="https://github.com/getft/getft-ojs-plugin?tab=readme-ov-file">README</a>."
+
+msgid "plugins.generic.getftr.settings.integratorId"
+msgstr "GetFTR Integrator ID"
+
+msgid "plugins.generic.getftr.settings.integratorIdRequired"
+msgstr "A valid GetFTR Integrator ID is required to activate GetFTR integration."
+
+msgid "plugins.generic.getftr.settings.settingsUpdated"
+msgstr "GetFTR settings have been successfully updated."
